@@ -1,0 +1,15 @@
+
+
+
+.box{
+    position: relative;
+    left: 10px;
+    transition: left 5s ;
+}
+
+
+
+.box:hover{
+    left: 700px;
+}
+
